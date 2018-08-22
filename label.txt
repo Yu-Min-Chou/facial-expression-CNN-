@@ -1,0 +1,16 @@
+
+=========================
+EMOTION_LABEL
+=========================
+------------------------- "EmoLabel/list_patition_label.txt"-------------------------
+
+each row: <image_name> <emotion label>
+
+Notes:
+1: Surprise
+2: Fear
+3: Disgust
+4: Happiness
+5: Sadness
+6: Anger
+7: Neutral
